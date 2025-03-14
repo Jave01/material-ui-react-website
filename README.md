@@ -14,7 +14,7 @@ Follow these steps to get started with the project:
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/material-ui-react-website.git
+git clone https://github.com/Jave01/material-ui-react-website.git
 cd material-ui-react-website
 
 2️⃣ Install Dependencies
